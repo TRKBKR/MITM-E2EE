@@ -1,0 +1,15 @@
+Run the server 
+
+Hacked Network Or Evil Service Provider
+
+''' python3 "Evil Server/serverE.py" '''
+
+
+Normal Server Usage
+
+''' python3 "Noraml Server/Server.py" '''
+
+
+
+User A ''' python3 "CLIENTA/Client A.py" '''
+User B ''' python3 "CLIENTB/Client B.py" '''
