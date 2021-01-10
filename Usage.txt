@@ -1,4 +1,8 @@
-Run the server 
+requirement
+===>  pycrypto-2.6.1
+===>  requests
+
+1) Run the server 
 
 Hacked Network Or Evil Service Provider
 
@@ -10,6 +14,7 @@ Normal Server Usage
 ''' python3 "Noraml Server/Server.py" '''
 
 
+2) Run Users
 
 User A ''' python3 "CLIENTA/Client A.py" '''
 User B ''' python3 "CLIENTB/Client B.py" '''
