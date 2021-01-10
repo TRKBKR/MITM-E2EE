@@ -11,6 +11,7 @@ How They Will Do it MITM Seems good But How
 
 ## Server
 The Purpose Of A server is to Send The First Public Key Extchange And Encrypted MSG Transfer
+
 **Normal Server** Does That 
 
 ![Public Key Sharing](Public Sharing clor.png)
@@ -20,8 +21,11 @@ The Purpose Of A server is to Send The First Public Key Extchange And Encrypted 
 
 ## Client A & B
 Is A Simple Client With RSA Public/Private 
+
 Client **A** Send'd **Public Key A** to Client **B**
+
 Client **B** Send'd **Public Key B** to Client **A**
+
 Then Each Client Encrypts The Message With Other Client Public Key And Send's It 
 
 ## DEMO
