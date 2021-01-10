@@ -14,7 +14,7 @@ The Purpose Of A server is to Send The First Public Key Extchange And Encrypted 
 
 **Normal Server** Does That 
 
-<img alt="Public Key Sharing" src="Public Sharing clor.png" width=480 height=480>
+<img alt="Public Key Sharing" src="Public Sharing clor.png" width=600 height=480>
 
 **Evil Server** Does What an Attacker Do ,it Changes The Client's Public Key with It's Public Key During Key Extchange
 
@@ -29,4 +29,4 @@ Then Each Client Encrypts The Message With Other Client Public Key And Send's It
 
 ## DEMO
 
-<a href="End Example.mp4" >Watch Video<img src="z.png" width=480 height=480></a>
+<a href="End Example.mp4" ><img src="z.png" width=600 height=480></a>
